@@ -1,1 +1,1 @@
-completed.ipynd以外のjupyter notebookは読む必要がない
+completed.ipynb以外のjupyter notebookは読む必要がない
